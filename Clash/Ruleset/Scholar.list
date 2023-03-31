@@ -16,6 +16,7 @@ DOMAIN-SUFFIX,bmj.com
 DOMAIN-SUFFIX,cabdirect.org
 DOMAIN-SUFFIX,cambridge.org
 DOMAIN-SUFFIX,cas.org
+DOMAIN-SUFFIX,calis.edu.cn
 DOMAIN-SUFFIX,cell.com
 DOMAIN-SUFFIX,clarivate.com
 DOMAIN-SUFFIX,cnki.net
@@ -25,6 +26,7 @@ DOMAIN-SUFFIX,csiro.au
 DOMAIN-SUFFIX,deepdyve.com
 DOMAIN-SUFFIX,doi.org
 DOMAIN-SUFFIX,ebscohost.com
+DOMAIN-SUFFIX,eduai.baidu.com
 DOMAIN-SUFFIX,els-cdn.com
 DOMAIN-SUFFIX,elsevier.com
 DOMAIN-SUFFIX,emerald.com
@@ -45,6 +47,7 @@ DOMAIN-SUFFIX,mdpi.com
 DOMAIN-SUFFIX,mpg.de
 DOMAIN-SUFFIX,myilibrary.com
 DOMAIN-SUFFIX,nature.com
+DOMAIN-SUFFIX,newacademic.net
 DOMAIN-SUFFIX,ncbi.nlm.nih.gov
 DOMAIN-SUFFIX,oecd-ilibrary.org
 DOMAIN-SUFFIX,osapublishing.org
@@ -75,6 +78,7 @@ DOMAIN-SUFFIX,tandfonline.com
 DOMAIN-SUFFIX,un.org
 DOMAIN-SUFFIX,uni-bielefeld.de
 DOMAIN-SUFFIX,wanfangdata.com
+DOMAIN-SUFFIX,wanfangdata.com.cn
 DOMAIN-SUFFIX,webofknowledge.com
 DOMAIN-SUFFIX,westlaw.com
 DOMAIN-SUFFIX,westlawchina.com
